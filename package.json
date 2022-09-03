@@ -1,0 +1,54 @@
+{
+    "name": "angular-vscode-pack",
+    "displayName": "Angular Pack",
+    "author": "Fadi Hania - Coddict.co",
+    "icon": "logo/angular-pack.png",
+    "publisher": "coddictco",
+    "homepage": "https://coddict.co",
+    "description": "Useful and required Angular development extensions",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "Angular.ng-template",
+        "johnpapa.Angular2",
+        "DSKWRK.vscode-generate-getter-setter",
+        "pflannery.vscode-versionlens",
+
+        "GitHub.copilot",
+        "devine-davies.make-hidden",
+        "aaron-bond.better-comments",
+        "jenkey2011.string-highlight",
+        "maptz.camelcasenavigation",
+        "wmaurer.change-case",
+        "mrmlnc.vscode-duplicate",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "ardisaurus.gitflow-actions-sidebar",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "humao.rest-client",
+        "streetsidesoftware.code-spell-checker",
+        "EditorConfig.EditorConfig",
+        "ybaumes.highlight-trailing-white-spaces",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "formulahendry.auto-rename-tag",
+        "esbenp.prettier-vscode",
+        "quicktype.quicktype",
+        "cschlosser.doxdocgen",
+
+        "Zignd.html-css-class-completion",
+        "PWABuilder.pwa-studio"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fadihania/angular-vscode-pack"
+    }
+}
